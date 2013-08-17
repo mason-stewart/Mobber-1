@@ -330,10 +330,11 @@ button:hover {
   width: 100%;
   background: #FFFFFF;
   box-shadow: 0 0 7px rgb(162, 162, 162);
-  height: 610px;
   display: inline-block;
   margin-top: 66px;
 }
+
+
 
  /*footer section */
 footer {
