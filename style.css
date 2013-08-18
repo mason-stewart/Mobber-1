@@ -334,7 +334,81 @@ button:hover {
   margin-top: 66px;
 }
 
+.start-your-mob {
+  width: 300px;
+  height: 210px;
+  display: inline-block;
+  background: #D0CDC7;
+}
 
+.start-your-mob h5 {
+  color: #FFFFFF;
+  font-size: 22px;
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  text-align: center;
+  margin: 20px auto 10px auto;
+  text-shadow: 0px 1px 0px #918F8B;
+}
+
+.start-your-mob button {
+  width: 278px;
+  height: 61px;
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #7F7B77;
+  margin: 0px auto;
+  box-shadow: inset 0px 1px 0px #FFFFFF;
+  background: linear-gradient(to bottom, #e7e6e3 0%,#d0cdc7 100%);
+  position: relative;
+  top: -49px;
+  right: -11px;
+}
+
+span.start-a-mob {
+  color: #0080B4;
+  font-size: 24px;
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  text-shadow: 0px 1px 0px #FFFFFF;
+}
+
+.start-your-mob .steps {
+  color: #414141;
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  display: inline-block;
+  margin: 5px 18px;
+  text-align: center;
+  position: relative;
+  top: -56px;
+  right: -4px;
+}
+
+.start-your-mob .number {
+  width: 37px;
+  height: 37px;
+  display: inline-block;
+  margin: 10px 29px;
+  border-radius: 100px;
+  text-align: center;
+  color: #787878;
+  background: linear-gradient(to bottom, #d5d5d5 0%,#fdfdfd 100%);
+  border: #8C8A86;
+  box-shadow: inset 0px 1px 0px #FFFFFF, 0px 1px 3px 1px #94938C;
+  font-family: Futura, Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  text-shadow: 0px 1px 0px #F8F8F8;
+  line-height: 37px;
+  position: relative;
+  top: -52px;
+}
+
+.start-your-mob hr {
+  height: 7px;
+  width: 220px;
+  background: #BDBBB5;
+  border: none;
+  margin: 25px auto 20px auto;
+}
 
  /*footer section */
 footer {
